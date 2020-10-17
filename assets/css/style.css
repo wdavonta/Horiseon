@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* apply styles to <header> */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,7 +24,9 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
+/* apply styles to <header> end */
 
+/* header nav style */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -40,6 +43,7 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
+/* header nav style end*/
 
 a {
     color: #ffffff;
@@ -50,6 +54,7 @@ p {
     font-size: 16px;
 }
 
+/* hero section style */
 .hero {
     height: 800px;
     width: 100%;
@@ -74,7 +79,9 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+/* hero section style end*/
 
+/* beneift styles */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -115,7 +122,9 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
+/*benefit styles end*/
 
+/* benift image style */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -133,7 +142,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* benifit image style end*/
 
+/* search engine style */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -160,7 +171,9 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+/* engine style end*/
 
+/* search engine img style*/
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -187,7 +200,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* search engine img style end*/
 
+/* footer style */
 .footer {
     padding: 30px;
     clear: both;
@@ -198,3 +213,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/*footer style end*/
